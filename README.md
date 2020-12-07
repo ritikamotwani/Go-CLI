@@ -12,7 +12,7 @@ Instructions: https://golang.org/doc/install
 
 ### Setting up environment variables
 
-In your `.zshrc` or `.bashrc` file, append your system’s $PATH so that we can invoke the command from anywhere.
+In your `.zshrc` or `.bashrc` file, append your system’s $PATH so that the command can be invoked from anywhere.
 
 `export PATH=${PATH}:$HOME/go/bin`
 
@@ -20,7 +20,7 @@ Restart your terminal once to source them into your machine environment or just 
 
 
 ### Cobra
-To install cobra run: 
+To install cobra, run: 
 
 `go get -u github.com/spf13/cobra/cobra`
 
