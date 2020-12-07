@@ -11,7 +11,12 @@ import (
 
 func readAndWriteFile(directory string, sourceFile string, fileName string) {
 	// read
-	content, err := ioutil.ReadFile(sourceFile)
+	// content, err := ioutil.ReadFile(sourceFile)
+	// if err != nil {
+	// 	panic(err)
+	// }
+
+	content, err := Asset("data/" + sourceFile)
 	if err != nil {
 		panic(err)
 	}
