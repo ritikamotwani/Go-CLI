@@ -42,6 +42,12 @@ After cloning the repo, go to the project's directory (HelloWorld) and run:
 - go install HelloWorld
 
 
+## Output
 
-# Slides
+Example - 
+Run `HelloWorld create NodeJS` a Hello World nodeJS app gets created in the home directory.
+
+
+
+## Slides
 https://docs.google.com/presentation/d/1euO4KxHobMmLuOdJjEA9TERQqgBCOX274L652i1Y_9U/edit?usp=sharing
