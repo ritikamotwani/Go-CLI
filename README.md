@@ -4,7 +4,7 @@ Command Line Utility that creates Hello World apps.
 
 <img src="https://ordina-jworks.github.io/img/make-your-own-cli-with-golang-and-cobra/banner.jpg" />
 
-# Installations
+## Installations
 
        
 ### Go 
