@@ -43,7 +43,7 @@ One Time Commands:
 - go build
 - go install HelloWorld
 
-After editing files to run the command again reflecting new changes, run:
+After editing files to run the command to reflect the new changes, run:
 - go install HelloWorld to build the new version.
 
 
