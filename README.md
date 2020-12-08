@@ -42,7 +42,7 @@ After cloning the repo, go to the project's directory (HelloWorld) and run:
 - go install HelloWorld
 
 
-## Output
+## Usage
 
 Example - 
 Run `HelloWorld create NodeJS` a nodeJS Hello World app gets created in the home directory.
