@@ -15,7 +15,7 @@ var cfgFile string
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "HelloWorld",
-	Short: "Generates a hello world file in the language passed as an argument.",
+	Short: "Generates a hello world file/app in the language passed as an argument.",
 	Long:  `A command line tool to create a hello world 👋 file in the language passed as an argument. ✨`,
 }
 
