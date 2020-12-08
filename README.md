@@ -37,9 +37,26 @@ You can run `cobra help` or just `cobra` to get more familiar with it.
 
 After cloning the repo, go to the project's directory (HelloWorld) and run:
 
+One Time Commands:
+
 - go mod init HelloWorld
 - go build
 - go install HelloWorld
+
+After editing files to run the command again reflecting new changes, run:
+- go install HelloWorld to build the new version.
+
+
+<b> This project also uses to create binary files of the hello world files in different languages: https://github.com/go-bindata/go-bindata </b>
+
+After adding a new file in cmd/data for a new language
+To install that, run:
+
+1. go get -u github.com/go-bindata/go-bindata/...
+2. go-bindata data/
+
+Then install the module again.
+
 
 
 ## Usage
