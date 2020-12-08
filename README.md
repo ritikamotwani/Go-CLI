@@ -4,7 +4,7 @@ Command Line Utility that creates Hello World apps.
 
 <img src="https://ordina-jworks.github.io/img/make-your-own-cli-with-golang-and-cobra/banner.jpg" />
 
-## Installations
+## Installation
 
        
 ### Go 
@@ -47,7 +47,3 @@ After cloning the repo, go to the project's directory (HelloWorld) and run:
 Example - 
 Run `HelloWorld create NodeJS` a nodeJS Hello World app gets created in the home directory.
 
-
-
-## Slides
-https://docs.google.com/presentation/d/1euO4KxHobMmLuOdJjEA9TERQqgBCOX274L652i1Y_9U/edit?usp=sharing
