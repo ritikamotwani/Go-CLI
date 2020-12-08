@@ -44,6 +44,8 @@ After cloning the repo, go to the project's directory (HelloWorld) and run:
 
 ## Usage
 
+![image](https://user-images.githubusercontent.com/22127980/101438705-fc5f7c00-3938-11eb-9bb5-55b129316a05.png)
+
 Example - 
 Run `HelloWorld create NodeJS` a nodeJS Hello World app gets created in the home directory.
 
